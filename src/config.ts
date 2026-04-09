@@ -172,7 +172,8 @@ export const config = {
         linkedin: "https://topstar-ai.github.io",
         twitter: "https://topstar-ai.github.io",
         facebook: "https://topstar-ai.github.io",
-        instagram: "https://topstar-ai.github.io"
+        instagram: "https://topstar-ai.github.io",
+        resume: "/resume.pdf"
     },
     skills: {
         develop: {
