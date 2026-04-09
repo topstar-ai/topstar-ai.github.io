@@ -1,25 +1,25 @@
 export const config = {
     developer: {
-        name: "Redoyanul",
-        fullName: "Redoyanul Haque",
-        title: "AI & Full-Stack Developer",
-        description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+        name: "Emmanuel",
+        fullName: "Emmanuel Cortes",
+        title: "AI & Blockchain Developer",
+        description: "AI & Blockchain Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
     },
     social: {
-        github: "red1-for-hek",
-        email: "redoyanul1234@gmail.com",
-        location: "Bangladesh"
+        github: "topstar-ai",
+        email: "stackbuilder1228@gmail.com",
+        location: "Mexico"
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Full-Stack Developer from Bangladesh. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "I am a self-taught AI & Blockchain/Full-Stack Developer from Remote. I build intelligent systems, chatbots, and modern web applications with blockchain integration. My expertise includes Machine Learning, Deep Learning, NLP, Smart Contracts, Web3 development, and Full-Stack Web Development with React, Next.js, Node.js, Solidity, and Python. I specialize in creating decentralized applications (dApps), DeFi solutions, and autonomous AI agents. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. Code is poetry, AI is the canvas."
     },
     experiences: [
         {
             position: "Learning Something New",
             company: "Self-Development",
             period: "2025 - Present",
-            location: "Bangladesh",
+            location: "Remote",
             description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
             responsibilities: [
                 "Researching cutting-edge AI and ML technologies",
@@ -33,7 +33,7 @@ export const config = {
             position: "AI Engineer",
             company: "Freelance & Projects",
             period: "2025",
-            location: "Bangladesh",
+            location: "Remote",
             description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
             responsibilities: [
                 "Building AI-powered chatbots and conversational agents",
@@ -47,7 +47,7 @@ export const config = {
             position: "Full-Stack Developer",
             company: "Freelance & Projects",
             period: "2024",
-            location: "Bangladesh",
+            location: "Remote",
             description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
             responsibilities: [
                 "Developing full-stack web applications using React and Node.js",
@@ -61,7 +61,7 @@ export const config = {
             position: "Python Developer",
             company: "Self-Taught & Projects",
             period: "2023",
-            location: "Bangladesh",
+            location: "Remote",
             description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
             responsibilities: [
                 "Learning Python programming and core concepts",
@@ -75,7 +75,7 @@ export const config = {
             position: "Graphic Designer",
             company: "Freelance",
             period: "2022",
-            location: "Bangladesh",
+            location: "Remote",
             description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
             responsibilities: [
                 "Designing logos and brand identity materials",
@@ -89,7 +89,7 @@ export const config = {
             position: "Microsoft Office",
             company: "Begin Learning",
             period: "2021",
-            location: "Bangladesh",
+            location: "Remote",
             description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
             responsibilities: [
                 "Learning Microsoft Word, Excel, and PowerPoint",
@@ -107,7 +107,7 @@ export const config = {
             category: "AI / LLM",
             technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
             image: "/images/drishti.png",
-            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali."
+            description: "Remote's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali."
         },
         {
             id: 2,
@@ -147,7 +147,7 @@ export const config = {
             category: "AI / ML",
             technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
             image: "/images/floodhub.png",
-            description: "A flood prediction model specifically designed for Bangladesh's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecasts and alerts."
+            description: "A flood prediction model specifically designed for Remote's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecasts and alerts."
         },
         {
             id: 7,
@@ -167,12 +167,12 @@ export const config = {
         }
     ],
     contact: {
-        email: "redoyanul1234@gmail.com",
-        github: "https://github.com/red1-for-hek",
-        linkedin: "https://linkedin.com/in/red1-for-hek",
-        twitter: "https://x.com/red_1_ul",
-        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
-        instagram: "https://www.instagram.com/red_1_ul"
+        email: "stackbuilder1228@gmail.com",
+        github: "https://github.com/topstar-ai",
+        linkedin: "https://topstar-ai.github.io",
+        twitter: "https://topstar-ai.github.io",
+        facebook: "https://topstar-ai.github.io",
+        instagram: "https://topstar-ai.github.io"
     },
     skills: {
         develop: {
@@ -182,10 +182,10 @@ export const config = {
             tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
         },
         design: {
-            title: "FULL-STACK",
-            description: "Modern web development & scalable applications",
-            details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
-            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
+            title: "BLOCKCHAIN / FULL-STACK",
+            description: "Web3 development & decentralized applications with blockchain integration",
+            details: "Building full-stack web applications with React, Next.js, and Node.js while integrating blockchain technologies. Developing smart contracts on Ethereum, creating DeFi solutions, and building decentralized applications (dApps) with Web3.js. Combining responsive UI/UX with blockchain security and smart contract functionality.",
+            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Solidity", "Web3.js", "Ethereum", "Smart Contracts", "MetaMask", "IPFS", "DeFi", "TailwindCSS", "REST APIs", "Docker", "Git"]
         }
     }
 };
