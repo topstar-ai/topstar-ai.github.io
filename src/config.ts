@@ -16,88 +16,87 @@ export const config = {
     },
     experiences: [
         {
-            position: "Learning Something New",
-            company: "Self-Development",
-            period: "2025 - Present",
+            position: "Senior AI & Blockchain Developer",
+            company: "Self Development - Upwork",
+            period: "Mar 2026 - Present",
             location: "Remote",
-            description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
+            description: "Designed and implemented advanced AI algorithms integrating with blockchain smart contracts to automate and secure complex processes.",
             responsibilities: [
-                "Researching cutting-edge AI and ML technologies",
-                "Experimenting with new frameworks and tools",
-                "Contributing to open-source projects",
-                "Building innovative personal projects"
+                "Designed and implemented advanced AI algorithms integrating with blockchain smart contracts to automate and secure complex processes"
             ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
+            technologies: ["AI", "Blockchain", "Smart Contracts", "Algorithms"]
         },
         {
-            position: "AI Engineer",
-            company: "Freelance & Projects",
-            period: "2025",
-            location: "Remote",
-            description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
+            position: "Senior AI Developer",
+            company: "Stability AI Ltd",
+            period: "2026 - 2023",
+            location: "Remote - London, United Kingdom",
+            description: "Implemented and optimized core components of the generative image pipeline built on Stable Diffusion, working with Python and PyTorch to develop and fine-tune diffusion models, optimize UNet and VAE inference on GPU (CUDA), implement LoRA/DreamBooth training workflows, integrate prompt conditioning with CLIP text encoders, and build scalable inference APIs for image generation services; collaborated with the open ecosystem led by Stability AI to improve model deployment, performance tuning, and production integration of diffusion-based generative systems.",
             responsibilities: [
-                "Building AI-powered chatbots and conversational agents",
-                "Developing machine learning models with TensorFlow and PyTorch",
-                "Working with LLMs and transformer architectures",
-                "Creating autonomous AI systems and automation tools"
+                "Developed and fine-tuned diffusion models using Python and PyTorch",
+                "Optimized UNet and VAE inference on GPU (CUDA)",
+                "Implemented LoRA/DreamBooth training workflows",
+                "Integrated prompt conditioning with CLIP text encoders",
+                "Built scalable inference APIs for image generation services",
+                "Collaborated with the open ecosystem to improve model deployment, performance tuning, and production integration",
+                "Collaborated with cross-functional teams to design scalable AI pipelines that leverage blockchain for decentralized data validation"
             ],
-            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
+            technologies: ["Python", "PyTorch", "Stable Diffusion", "CUDA", "LoRA", "DreamBooth", "CLIP", "Blockchain", "AI Pipelines"]
         },
         {
-            position: "Full-Stack Developer",
-            company: "Freelance & Projects",
-            period: "2024",
+            position: "Senior AI & Blockchain Developer",
+            company: "CertOnce Pvt Ltd",
+            period: "2023 - 2019",
             location: "Remote",
-            description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
+            description: "Developed and deployed decentralized applications (dApps) on blockchain platforms such as Ethereum and Hyperledger to ensure transparency and security. Led the integration of AI solutions with blockchain technology to enhance smart contract functionalities and automate complex processes.",
+            responsibilities: [
+                "Designed the core architecture and technical framework for the Certonce platform",
+                "Led development of its AI and blockchain infrastructure",
+                "Built key systems and proactively resolved architectural, scalability, and security risks throughout the project lifecycle",
+                "Developed and deployed decentralized applications (dApps) on blockchain platforms such as Ethereum and Hyperledger to ensure transparency and security",
+                "Led the integration of AI solutions with blockchain technology to enhance smart contract functionalities and automate complex processes"
+            ],
+            technologies: ["Solidity", "Ethereum", "Hyperledger", "AI", "Blockchain", "Smart Contracts"]
+        },
+        {
+            position: "Junior Full Stack Developer",
+            company: "Wizeline Inc",
+            period: "2019 - 2014",
+            location: "Remote - San Francisco, United States",
+            description: "Developed and maintained full stack web applications using JavaScript, React, Node.js, and MongoDB to deliver scalable solutions",
             responsibilities: [
                 "Developing full-stack web applications using React and Node.js",
                 "Building RESTful APIs and integrating databases",
                 "Creating responsive and interactive user interfaces",
                 "Deploying and maintaining web applications"
             ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
+            technologies: ["JavaScript", "React", "Node.js", "Express.js", "MongoDB", "HTML5", "CSS3", "Git"]
         },
         {
-            position: "Python Developer",
-            company: "Self-Taught & Projects",
-            period: "2023",
-            location: "Remote",
-            description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
+            position: "Bachelor of Science (B.S.) in Computer Science",
+            company: "National Autonomous University of Mexico",
+            period: "2014 - 2011",
+            location: "Mexico",
+            description: "Gained knowledge in software engineering principles and project management to lead complex AI and blockchain projects.",
             responsibilities: [
-                "Learning Python programming and core concepts",
-                "Building automation scripts and Discord bots",
-                "Exploring data structures and algorithms",
-                "Participating in competitive programming"
+                "Studied software engineering principles and methodologies",
+                "Learned project management techniques for complex systems",
+                "Developed foundation for AI and blockchain technology expertise"
             ],
-            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
+            technologies: ["Software Engineering", "Project Management", "Computer Science"]
         },
         {
-            position: "Graphic Designer",
-            company: "Freelance",
-            period: "2022",
-            location: "Remote",
-            description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
+            position: "University",
+            company: "National Autonomous University of Mexico",
+            period: "2011 - 2006",
+            location: "Mexico",
+            description: "Applied knowledge of ethical considerations in AI and blockchain systems.",
             responsibilities: [
-                "Designing logos and brand identity materials",
-                "Creating social media graphics and banners",
-                "Working with clients on creative projects",
-                "Learning design principles and visual aesthetics"
+                "Applied knowledge of ethical considerations in AI and blockchain systems",
+                "Explored foundational computer science concepts",
+                "Developed understanding of emerging technologies impact"
             ],
-            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
-        },
-        {
-            position: "Microsoft Office",
-            company: "Begin Learning",
-            period: "2021",
-            location: "Remote",
-            description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
-            responsibilities: [
-                "Learning Microsoft Word, Excel, and PowerPoint",
-                "Creating documents and presentations",
-                "Understanding basic computer operations",
-                "Building foundational digital skills"
-            ],
-            technologies: ["MS Word", "MS Excel", "MS PowerPoint", "Computer Basics"]
+            technologies: ["Ethics", "AI", "Blockchain", "Computer Science"]
         }
     ],
     projects: [
@@ -119,11 +118,11 @@ export const config = {
         },
         {
             id: 3,
-            title: "EIE - Earthquake Impact Estimator",
-            category: "IoT / Hardware",
-            technologies: "Arduino, C++, IoT Sensors, Python, ML, React",
-            image: "/images/eie.png",
-            description: "A practical circuit-based IoT system utilizing Arduino to predict earthquakes before they strike. Integrates hardware sensors for real-time seismic detection and impact estimation."
+            title: "Wizeline SaaS Product Management Platform",
+            category: "SaaS / Product Management",
+            technologies: "React, Node.js, MongoDB, Express, TailwindCSS",
+            image: "/images/wizeline.png",
+            description: "Contributed to and completed Wizeline’s SaaS product management platform, delivering core feature development, product workflows, and a scalable user experience."
         },
         {
             id: 4,
@@ -151,6 +150,14 @@ export const config = {
         },
         {
             id: 7,
+            title: "CertOnce Platform",
+            category: "AI / Blockchain",
+            technologies: "Solidity, Ethereum, Hyperledger, AI, Blockchain, Smart Contracts",
+            image: "/images/certonce.jpg",
+            description: "Designed the core architecture and technical framework for the Certonce platform, leading AI and blockchain infrastructure development while resolving architectural, scalability, and security risks."
+        },
+        {
+            id: 8,
             title: "Phoenix",
             category: "AI Assistant",
             technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
@@ -158,7 +165,7 @@ export const config = {
             description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience."
         },
         {
-            id: 8,
+            id: 9,
             title: "HekTools",
             category: "Security / Android",
             technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
