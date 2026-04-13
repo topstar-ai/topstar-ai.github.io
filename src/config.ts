@@ -2,8 +2,8 @@ export const config = {
     developer: {
         name: "Emmanuel",
         fullName: "Emmanuel Cortes",
-        title: "AI & Blockchain Developer",
-        description: "AI & Blockchain Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+        title: "AI Automation Developer | API Integration | Full Stack",
+        description: "AI Automation Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
     },
     social: {
         github: "topstar-ai",
@@ -12,11 +12,11 @@ export const config = {
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Blockchain/Full-Stack Developer from Remote. I build intelligent systems, chatbots, and modern web applications with blockchain integration. My expertise includes Machine Learning, Deep Learning, NLP, Smart Contracts, Web3 development, and Full-Stack Web Development with React, Next.js, Node.js, Solidity, and Python. I specialize in creating decentralized applications (dApps), DeFi solutions, and autonomous AI agents. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. Code is poetry, AI is the canvas."
+        description: "I am a self-taught AI & Automation Developer from Remote. I build intelligent systems, chatbots, and modern web applications with blockchain integration. My expertise includes Machine Learning, Deep Learning, NLP, Smart Contracts, Web3 development, and Full-Stack Web Development with React, Next.js, Node.js, Solidity, and Python. I specialize in creating decentralized applications (dApps), DeFi solutions, and autonomous AI agents. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. Code is poetry, AI is the canvas."
     },
     experiences: [
         {
-            position: "Senior AI & Blockchain Developer",
+            position: "Senior AI Automation Developer",
             company: "Self Development - Upwork",
             period: "Mar 2026 - Present",
             location: "Remote",
@@ -24,7 +24,7 @@ export const config = {
             responsibilities: [
                 "Designed and implemented advanced AI algorithms integrating with blockchain smart contracts to automate and secure complex processes"
             ],
-            technologies: ["AI", "Blockchain", "Smart Contracts", "Algorithms"]
+            technologies: ["AI", "Automation", "Smart Contracts", "Algorithms"]
         },
         {
             position: "Senior AI Developer",
@@ -184,13 +184,13 @@ export const config = {
     },
     skills: {
         develop: {
-            title: "AI DEVELOPER",
+            title: "AI AUTOMATION DEVELOPER",
             description: "Building intelligent systems & AI solutions",
             details: "Developing AI agents, chatbots, and machine learning models using Python, TensorFlow, and PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
             tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
         },
         design: {
-            title: "BLOCKCHAIN / FULL-STACK",
+            title: "API INTEGRATION | FULL-STACK",
             description: "Web3 development & decentralized applications with blockchain integration",
             details: "Building full-stack web applications with React, Next.js, and Node.js while integrating blockchain technologies. Developing smart contracts on Ethereum, creating DeFi solutions, and building decentralized applications (dApps) with Web3.js. Combining responsive UI/UX with blockchain security and smart contract functionality.",
             tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Solidity", "Web3.js", "Ethereum", "Smart Contracts", "MetaMask", "IPFS", "DeFi", "TailwindCSS", "REST APIs", "Docker", "Git"]
