@@ -70,11 +70,11 @@ const Navbar = () => {
           <img src="/images/logo.png" alt="Emmanuel Cortes" width={60}/>
         </a>
         <a
-          href="mailto:stackbuilder1228@gmail.com"
+          href="mailto:emmanuelcortes0225@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
-          stackbuilder1228@gmail.com
+          emmanuelcortes0225@gmail.com
         </a>
         <ul>
           <li>

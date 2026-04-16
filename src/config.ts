@@ -2,21 +2,21 @@ export const config = {
     developer: {
         name: "Emmanuel",
         fullName: "Emmanuel Cortes",
-        title: "AI Automation Developer | API Integration | Full Stack",
-        description: "AI Automation Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+        title: "AI Developer | API Integration | Full Stack",
+        description: "AI Automation and Agents Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
     },
     social: {
         github: "topstar-ai",
-        email: "stackbuilder1228@gmail.com",
+        email: "emmanuelcortes0225@gmail.com",
         location: "Mexico"
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Automation Developer from Remote. I build intelligent systems, chatbots, and modern web applications with blockchain integration. My expertise includes Machine Learning, Deep Learning, NLP, Smart Contracts, Web3 development, and Full-Stack Web Development with React, Next.js, Node.js, Solidity, and Python. I specialize in creating decentralized applications (dApps), DeFi solutions, and autonomous AI agents. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. Code is poetry, AI is the canvas."
+        description: "I am a self-taught AI Automation and Agents Developer from Remote. I build intelligent systems, chatbots, and modern web applications with blockchain integration. My expertise includes Machine Learning, Deep Learning, NLP, Smart Contracts, Web3 development, and Full-Stack Web Development with React, Next.js, Node.js, Solidity, and Python. I specialize in creating decentralized applications (dApps), DeFi solutions, and autonomous AI agents. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. Code is poetry, AI is the canvas."
     },
     experiences: [
         {
-            position: "Senior AI Automation Developer",
+            position: "Senior AI Automation and Agents Developer",
             company: "Self Development - Upwork",
             period: "Mar 2026 - Present",
             location: "Remote",
@@ -24,7 +24,7 @@ export const config = {
             responsibilities: [
                 "Designed and implemented advanced AI algorithms integrating with blockchain smart contracts to automate and secure complex processes"
             ],
-            technologies: ["AI", "Automation", "Smart Contracts", "Algorithms"]
+            technologies: ["AI", "Automation", "Agents", "Smart Contracts", "Algorithms"]
         },
         {
             position: "Senior AI Developer",
@@ -174,7 +174,7 @@ export const config = {
         }
     ],
     contact: {
-        email: "stackbuilder1228@gmail.com",
+        email: "emmanuelcortes0225@gmail.com",
         github: "https://github.com/topstar-ai",
         linkedin: "https://topstar-ai.github.io",
         twitter: "https://topstar-ai.github.io",
